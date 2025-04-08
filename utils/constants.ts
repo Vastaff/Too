@@ -11,8 +11,8 @@ export const PROMPTS = [
   'A group of astronauts exploring a distant planet, depicted in the vibrant, surreal style of 1970s space art.'
 ] as const
 
-export const PROMPTS_EN = [...]
-export const PROMPTS_RU = [...]
+//export const PROMPTS_EN = [...]
+//export const PROMPTS_RU = [...]
 
 export const IMAGES: Record<Prompt, string> = {
   "A futuristic city skyline at dusk, with towering skyscrapers and flying vehicles in the style of retro sci-fi art. Colors should feature deep purples, bright neon pinks, and glowing electric blues.": "futuristic-city.png",
