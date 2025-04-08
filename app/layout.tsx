@@ -17,7 +17,7 @@ const defaultFont = Reddit_Mono({
   display: 'swap',
   style: ['normal'],
   weight: ['400', '700'],
-  subsets: ['latin-ext'],
+  subsets: ['latin'],
 })
 
 export default function RootLayout({
